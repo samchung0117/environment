@@ -1,0 +1,6 @@
+{
+  "name": "LocalWP vs HostGator Environment Guide",
+  "description": "A simplified side-by-side comparison of LocalWP Development, HostGator Staging, and HostGator Production environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
